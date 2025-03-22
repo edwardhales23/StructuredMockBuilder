@@ -1,0 +1,23 @@
+
+---
+
+### **2. 27_EndpointSignalTracer**  
+**Description:**  
+Monitors a list of HTTP endpoints and reports latency and availability.
+
+#### **README.md**
+```markdown
+# EndpointSignalTracer - API Latency Monitor
+
+EndpointSignalTracer is ideal for quickly validating the responsiveness of multiple APIs and services.
+
+## Features
+- Logs status code and roundtrip time  
+- Simple terminal output  
+- Fast and portable  
+
+## Usage
+```bash
+git clone https://github.com/your-username/27_EndpointSignalTracer.git
+cd 27_EndpointSignalTracer
+python monitor.py

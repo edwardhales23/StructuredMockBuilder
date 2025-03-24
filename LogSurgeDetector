@@ -1,0 +1,23 @@
+
+---
+
+### **3. 27_LogSurgeDetector**  
+**Description:**  
+Scans logs and finds spikes in error or warning messages over time.
+
+#### **README.md**
+```markdown
+# LogSurgeDetector - Log Spike Finder
+
+LogSurgeDetector analyzes logs for bursts of activity, often signaling bugs, attacks, or system failures.
+
+## Features
+- Detects time-based clusters  
+- Supports multiple log types  
+- Outputs visual frequency summary  
+
+## Usage
+```bash
+git clone https://github.com/your-username/27_LogSurgeDetector.git
+cd 27_LogSurgeDetector
+python analyze.py /var/log/syslog

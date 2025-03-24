@@ -1,0 +1,23 @@
+
+---
+
+### **4. 27_StreamVizPanel**  
+**Description:**  
+A real-time dashboard that visualizes streaming data as an animated graph.
+
+#### **README.md**
+```markdown
+# StreamVizPanel - Live Data Visualization
+
+StreamVizPanel helps you visualize live or simulated numeric streams in real time with smooth animations.
+
+## Features
+- Animated line graph  
+- Easy customization  
+- Clean UI for embedded dashboards  
+
+## Usage
+```bash
+git clone https://github.com/your-username/27_StreamVizPanel.git
+cd 27_StreamVizPanel
+python visualize.py
